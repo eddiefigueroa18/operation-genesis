@@ -10,10 +10,19 @@ Open the (index.html) file in a new window to see web application.
 
 ## Usage
 User will be able to navigagte the page easily and click the reference links to go directly to the topic below.
-<!-- add image below -->
 
+## Preview
+![](./assets/images/webpage-screenshot.png)
+
+![](./assets/images/code-screenshot.png)
+<!-- change this if you push it up again -->
+
+## Deplyed link
+<!-- Add live link here -->
+[Deployed webpage](https://eddiefigueroa18.github.io/operation-genesis/)
 
 ## Credits
 Eduardo Figueroa
 
 [Github Profile](https://github.com/eddiefigueroa18)
+
