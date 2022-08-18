@@ -6,7 +6,6 @@ The client requested several updates on their new website in order to promote th
 
 ## Instalation
 Open the (index.html) file in a new window to see web application. 
-<!-- were going to add something here later  -->
 
 ## Usage
 User will be able to navigagte the page easily and click the reference links to go directly to the topic they chose.
@@ -15,10 +14,9 @@ User will be able to navigagte the page easily and click the reference links to 
 ![](./assets/images/webpage-screenshot.png)
 
 ![](./assets/images/code-screenshot.png)
-<!-- change this if you push it up again -->
+
 
 ## Deployed link
-<!-- Add live link here -->
 [Deployed webpage](https://eddiefigueroa18.github.io/operation-genesis/)
 
 ## Credits
